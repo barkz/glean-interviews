@@ -1,25 +1,30 @@
 # Glean Indexing and Search APIs
+
 ## Overview
+
 We will provide the candidate access to the SE Sandbox as a user-only. Prompt sent to the candidate prior the interview.
 
-This is an exercise where you’ll have a hands-on exercise with Glean. This will cover Glean Indexing APIs. You will be given a week to complete your work from the time you are given this prompt. 
+This is an exercise where you’ll have a hands-on exercise with Glean. This will cover Glean Indexing APIs. You will be given a week to complete your work from the time you are given this prompt.
 
-The required ask is indexing 50 documents of your choice via Glean Indexing API (https://developers.glean.com). During the interview session, you will present your understanding of the APIs and show you have indexed the documents into the Glean platform by searching for them.
+The required ask is indexing 50 documents of your choice via Glean Indexing API (<https://developers.glean.com>). During the interview session, you will present your understanding of the APIs and show you have indexed the documents into the Glean platform by searching for them.
 
 ## Settings
+
 * The backend server is support-lab-be.glean.com
 * The datasource name is interviewds and the indexing API Token is:<br><br>
     **y1ica8IKPeiKjQBPtu99uVyKpl820DE3B9vw7yq1FIM=**
-    
-* You can validate your work with access to Glean (in an incognito browser session), browse to https://app.glean.com with the following:
-  * Credential: alex@glean-sandbox.com
+
+* You can validate your work with access to Glean (in an incognito browser session), browse to <https://app.glean.com> with the following:
+  * Credential: <alex@glean-sandbox.com>
   * Password: IloveGlean123
 * Bonus (not required)
   * The following API Token can be used for Client Search API, impress us optionally.<br><br>
   **pt4TsekS0seVXlasjRVDsuFQyhcTDdXhXki0Z8klb4o=**
 
 # Glean Technical Services | Collaborative Exercise
+
 ## Overview
+
 We are eager to learn more about how you will approach your new role in the Solution Architect
 Team at Glean. We would like to know how you will approach a few likely customer scenarios
 you will encounter in your time with Glean.
@@ -32,7 +37,8 @@ through with us during the discussion. Do not provide any non-confidential or cu
 company-specific information. The discussion is expected to be interactive, so you should ask
 questions and state your assumptions throughout the presentation.
 
-## Scenario 1 (Solutions Architect):
+## Scenario 1 (Solutions Architect)
+
 The panel you are speaking with is the technical and security team at an existing Glean
 customer which is a large company with 5,000 employees and dozens of systems which have
 already been integrated into Glean for their users. They have requested that we provide 2
@@ -48,6 +54,7 @@ presentation. It is perfectly fine to speculate on capabilities that the source 
 destination systems may have.
 
 Include the following items to walk the panel team through:
+
 * High level integration component and flow diagram (block and arrow diagram is
 fine)
 * Technical assumptions about the customer systems and Glean (list of
