@@ -5,4 +5,4 @@
   
 * Collaboration interview presenting a customer use case to the Solution Architect interview panel.
   * Presentation covering integration customer use case, architect of solution, timelines and resources.
-  * Demo of Indexing Jupyter Notebook. 
+  * Demo of Indexing Jupyter Notebook.
